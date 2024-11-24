@@ -292,8 +292,8 @@ p {
     align-items: center;
     justify-content: space-between;
     border-radius: 16px;
-    width: 400px; /* Fixed width */
-    height: 800px; /* Fixed height */
+    width: 400px;
+    height: 800px;
     box-shadow: 5px 5px 0 #4DCCBD;
     background-color: #070410; 
     border: 1px solid #070410;
@@ -319,8 +319,8 @@ p {
     align-items: center;
     justify-content: space-between;
     border-radius: 16px;
-    width: 400px; /* Fixed width */
-    height: 800px; /* Fixed height */
+    width: 400px;
+    height: 800px;
     box-shadow: 5px 5px 0 #4DCCBD;
     background-color: #070410; 
     border: 1px solid #070410;
